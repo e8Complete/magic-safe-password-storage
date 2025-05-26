@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+*.venv/
+venv/
+env/
+ENV/
+.envrc
+
+# Specific to this project
+.env
+*.test.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
